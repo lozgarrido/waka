@@ -1,7 +1,9 @@
 # Waka
 Explore the best-selling videogames in history
 
-## <img src="images/blue_ghost.png"> About the project
+<p align="center"><img src="images/blue_ghost.png"></p>
+
+## About the project
 
 **Waka** is a data visualization project developed during the Ironhack Data Analysis bootcamp.
 
