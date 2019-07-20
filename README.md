@@ -1,5 +1,5 @@
 # Waka
-Explore the best-selling videogames in history
+An exploration of the best-selling videogames in history
 
 <p align="center"><img src="images/blue_ghost.png"></p>
 
@@ -14,8 +14,9 @@ Explore the best-selling videogames in history
 Install the needed libraries for the project:
 
 ```
-pip3 install pandas as pd
-pip3 install matplotlib.pyplot as plt
+pip3 install pandas
+pip3 install matplotlib
+pip3 install numpy
 ```
 
 ### Source
@@ -50,4 +51,3 @@ Fields include:
 
 - **Alberto and Octavio**, who will love this readme
 - **Rimbaud**, my cat, who loves me just because I feed him
-
