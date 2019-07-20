@@ -1,11 +1,11 @@
 # Waka
 Explore the best-selling videogames in history
 
-## About the project
+## <img src="images/blue_ghost.png"> About the project
 
 **Waka** is a data visualization project developed during the Ironhack Data Analysis bootcamp.
 
-> Waka waka waka waka waka waka waka (PAC-MAN, 1980)
+> Waka waka waka waka waka waka waka (Pac-Man, 1980)
 
 ### Prerequisites
 
@@ -44,7 +44,8 @@ Fields include:
 - *Other_Sales* - Sales in the rest of the world (in millions)
 - *Year* - Year of release of the game
 
-## Acknowledgments
+## Acknowledgments <img align="right" src="images/orange_ghost.png">
 
 - **Alberto and Octavio**, who will love this readme
 - **Rimbaud**, my cat, who loves me just because I feed him
+
