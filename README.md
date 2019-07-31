@@ -26,6 +26,16 @@ The project uses data provided by vgchartz.com, which was scraped by Abdulshahee
 - [VGChartz](http://www.vgchartz.com/gamedb/) - Original source
 - [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019) - Scraped dataset (version April 12th, 2019)
 
+### Files structure
+
+- **main.ipynb**: Jupyter file with the project
+
+Folders:
+
+- Data: input files
+- Libraries: custom Python libraries
+- Images
+
 ### Dataset info
 
 Fields include:
