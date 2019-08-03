@@ -32,9 +32,10 @@ The project uses data provided by vgchartz.com, which was scraped by Abdulshahee
 
 Folders:
 
-- Data: input files
-- Libraries: custom Python libraries
-- Images
+- data: input files
+- libraries: custom Python libraries
+- images
+- output: exportable images of charts
 
 ### Dataset info
 
